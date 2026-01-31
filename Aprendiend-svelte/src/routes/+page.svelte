@@ -24,6 +24,9 @@
 		<li>
 			<a href="/07-inspeccionar-estado">Práctica 7: inspeccionar estado</a>
 		</li>
+		<li>
+			<a href="/08-efectos">Práctica 8: Efectos</a>
+		</li>
 	</ul>
 </nav>
 
