@@ -14,7 +14,10 @@
              <a href="/03-html-tags">Práctica 3:@html </a>
         </li>
         <li>
-             <a href="/04-reactividad-state">Práctica 4:Reactivdad y state </a>
+             <a href="/04-reactividad-state">Práctica 4:Reactividad y state </a>
+        </li>
+        <li>
+             <a href="/05-reactividad-profunda">Práctica 5:Reactividad profunda </a>
         </li>
 	</ul>
 </nav>
