@@ -11,7 +11,7 @@
             <a href="/02-estilos-componentes">Práctica 2: Estilos y Componentes (Nested)</a>
         </li>
         <li>
-             <a href="/02-estado-derivado">Práctica Extra: Estado Derivado</a>
+             <a href="/03-html-tags">Práctica 3:@html </a>
         </li>
 	</ul>
 </nav>
