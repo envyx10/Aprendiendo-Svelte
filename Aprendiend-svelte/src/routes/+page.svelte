@@ -13,6 +13,9 @@
         <li>
              <a href="/03-html-tags">Práctica 3:@html </a>
         </li>
+        <li>
+             <a href="/04-reactividad-state">Práctica 4:Reactivdad y state </a>
+        </li>
 	</ul>
 </nav>
 
