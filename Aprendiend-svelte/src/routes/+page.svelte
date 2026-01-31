@@ -8,7 +8,7 @@
             <a href="/01-hola-mundo">Práctica 1: Hola Mundo y Atributos</a>
         </li>
 		<li>
-            <a href="/01-contador-basico">Práctica Extra: Contador (State)</a>
+            <a href="/02-estilos-componentes">Práctica 2: Estilos y Componentes (Nested)</a>
         </li>
         <li>
              <a href="/02-estado-derivado">Práctica Extra: Estado Derivado</a>
