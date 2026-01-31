@@ -21,6 +21,9 @@
 		<li>
 			<a href="/06-estado-derivado">Práctica 6: Estado Derivado ($derived)</a>
 		</li>
+		<li>
+			<a href="/07-inspeccionar-estado">Práctica 7: inspeccionar estado</a>
+		</li>
 	</ul>
 </nav>
 
